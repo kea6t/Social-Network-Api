@@ -2,10 +2,9 @@
   "name": "social-network-api",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kea6t/Social-Network-Api/issues"
   },
-  "homepage": "https://github.com/kea6t/Social-Network-Api#readme"
+  "homepage": "https://github.com/kea6t/Social-Network-Api#readme",
+  "dependencies": {
+    "mongoose": "^6.6.1"
+  }
 }
