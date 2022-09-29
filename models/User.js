@@ -42,7 +42,7 @@ UserSchema.virtual('friendCount').get(function () {
     return this.friends.length;
 });
 
-const Users = model('Pizza', UserSchema);
+const User = model('Pizza', UserSchema);
 
-module.exports = Users;
+module.exports = User;
 
