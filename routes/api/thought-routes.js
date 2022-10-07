@@ -12,7 +12,7 @@ const {
 // /api/thoughts
 router
 .route('/')
-.post(findAllThoughts);
+.get(findAllThoughts);
 
 // Set up GET one, and PUT at /api/thought/:id
 router

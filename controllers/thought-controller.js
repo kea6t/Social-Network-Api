@@ -31,9 +31,9 @@ const thoughtController = {
             .select('-__v')
             .sort({ _id: -1 })
             .then(dbThoughtData => res.json(dbThoughtData))
-            .catch(err => {
+            .catch((err) => {
                 console.log(err);
-                res.sendStatus(400);
+                res.sendStatus(400).json(err);
             });
     },
     // Get thought by _id
