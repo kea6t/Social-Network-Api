@@ -12,24 +12,24 @@ This walkthrough video shows users:
 * POST route for creating a user in the database
 * PUT route for updating a user in the database
 * DELETE route to delete a user from the database
-* Here's a link to the recorded video: https://watch.screencastify.com/v/TvLGwGzPKbdA1wpbGfjg
+* Here's a link to the recorded video: https://watch.screencastify.com/v/4jEVhlB8mZThcxYL4sUo
 
 This walkthrough video shows thoughts:
 * GET route to return all thoughts in the database
 * GET route to return a single thought in the database
 * POST route for creating a thought in the database
 * PUT route for updating a thought in the database
-* Here's a link to the recorded video: https://watch.screencastify.com/v/TvLGwGzPKbdA1wpbGfjg
+* Here's a link to the recorded video: https://watch.screencastify.com/v/e3D2aEq2P8NOPAB0p2b5
 
 This walkthrough video shows friends:
 * POST route for creating a friend to a user's friend list in the database
 * DELETE route for deleting a friend to a user's friend list in the database
-* Here's a link to the recorded video: https://watch.screencastify.com/v/TvLGwGzPKbdA1wpbGfjg
+* Here's a link to the recorded video: https://watch.screencastify.com/v/lzzNI7p1coRRDlMwpWjT
 
 This walkthrough video shows reactions:
 * POST route for creating a reaction in the database
 * DELETE route for deleting a reaction in the database
-* Here's a link to the recorded video: https://watch.screencastify.com/v/TvLGwGzPKbdA1wpbGfjg
+* Here's a link to the recorded video: https://watch.screencastify.com/v/R9dP2Y990wtXOG3gya7x
 
 
 
