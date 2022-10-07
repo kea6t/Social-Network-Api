@@ -32,7 +32,7 @@ router
 
 // /api/userId/thoughtId/<reactionId>
 router
-.route('/api/:userId/:thoughtId/:reactionId')
+.route('/:userId/:thoughtId/:reactionId')
 .delete(removeReaction);
 
 // /api/thought/<userId>/<thoughtId>
